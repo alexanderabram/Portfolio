@@ -1,5 +1,5 @@
-# HW-02
-Responsive Portfolio. 
+# Alex Abram Portfolio
+A professional portfolio including contact info and additional information.
 
 ## Installation 
 Follow the provided link via GitHub to view responsive portfolio.
